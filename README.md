@@ -40,5 +40,8 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ian-lab-kakaoent)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-lab-kakaoent&show_icons=true&theme=tokyonight)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ian-lab-kakaoent)
